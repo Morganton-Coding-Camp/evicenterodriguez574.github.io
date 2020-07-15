@@ -76,6 +76,20 @@ iframe {
   background-image: url('../above-ground-photo-of-succulent-plants-on-brown-wooden-board-1470168.jpg');
   background-position: center right;
 }
+
+
+
+.banner-text {
+  display: inline-block;
+  margin: auto;
+  padding: 3rem;
+  width: auto;
+  text-align: right;
+  background: #add8e6;
+  color: white;
+  border: 10px solid ##800080
+    font-size: 3.5 rem;
+}
 .profile-img {
   max-height: 50vh;
   width: auto;
