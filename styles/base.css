@@ -95,3 +95,9 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+.favorite-things {
+  background: #117011;
+  padding: 2rem;
+  color: white;
+}
